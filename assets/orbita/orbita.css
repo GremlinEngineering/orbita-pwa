@@ -1,0 +1,11 @@
+.network-cutaway { --cutaway-bg:#121e1c; }
+.cutaway-background { fill:var(--cutaway-bg); }
+.cutaway-frame { stroke:#436158; stroke-width:1; }
+.cutaway-grid-line { fill:none; stroke:#31463f; stroke-width:1; }
+.cutaway-hull { fill:#253b35; stroke:#85ab9b; stroke-width:1.4; }
+.cutaway-rib { fill:none; stroke:#668e80; stroke-width:1; }
+.network-cutaway text { font:12px ui-monospace,Menlo,monospace; fill:#d6e4d9; }
+.network-cutaway .cutaway-heading text { font-weight:700; fill:#b4dcc9; }
+.network-cutaway .cutaway-room { paint-order:stroke; stroke:#253b35; stroke-width:3px; stroke-linejoin:round; }
+.network-cutaway .cutaway-scale,.network-cutaway .cutaway-scale text,.network-cutaway .cutaway-passages text { fill:#91b4a5; font-size:11px; }
+.network-cutaway .network-trace:is(.network-selected,:hover,:focus-within) .network-wire { stroke-width:7; }

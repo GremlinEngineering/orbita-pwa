@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="ru" data-app="orbita">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#10191f">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icon-192.png">
+  <link rel="apple-touch-icon" href="icon-192.png">
+  <link rel="stylesheet" href="style.css">
+  <title>@TITLE@</title>
+  <script type="module" src="app.js"></script>
+</head>
+<body>
+  <header class="masthead">
+    <img src="icon-192.png" alt="" width="42" height="42">
+    <div><h1>Орбитальная станция Империи</h1><p>Коммуникатор командера</p></div>
+    <a class="gear" href="#settings" aria-label="Настройки">⚙</a>
+  </header>
+  <div class="telemetry">
+    <span id="connection">Сеть</span>
+    <span id="snapshot-clock">Ожидание среза</span>
+  </div>
+  <main id="app"></main>
+  <p id="status" role="status"></p>
+  <footer id="install-info">
+    <details>
+      <summary>Установка и офлайн</summary>
+      <p>В Safari нажмите «Поделиться» → «На экран „Домой“» → «Открывать как веб‑приложение».</p>
+      <p id="storage"></p>
+      <button id="persist" type="button">Запросить постоянное хранилище</button>
+    </details>
+  </footer>
+  <nav id="tabs" aria-label="Разделы коммуникатора"></nav>
+</body>
+</html>

@@ -1,0 +1,114 @@
+{
+  "control": [
+    393,
+    398
+  ],
+  "A": [
+    380,
+    693
+  ],
+  "B": [
+    637,
+    336
+  ],
+  "C": [
+    480,
+    413
+  ],
+  "galley": [
+    440,
+    233
+  ],
+  "cargo-buffer": [
+    360,
+    583
+  ],
+  "guest-rooms": [
+    563,
+    302
+  ],
+  "sector-01-corridor": [
+    570,
+    331
+  ],
+  "passenger-passage-b": [
+    606,
+    330
+  ],
+  "sector-01-bridge": [
+    555,
+    364
+  ],
+  "guest-capsules": [
+    552,
+    311
+  ],
+  "terminal-queue": [
+    587,
+    314
+  ],
+  "ring-02-junction": [
+    488,
+    256
+  ],
+  "passenger-baggage": [
+    566,
+    312
+  ],
+  "terminal-supplies": [
+    556,
+    381
+  ],
+  "sector-04-corridor": [
+    240,
+    309
+  ],
+  "school": [
+    221,
+    302
+  ],
+  "workshop": [
+    212,
+    332
+  ],
+  "gym": [
+    245,
+    329
+  ],
+  "utilities": [
+    241,
+    457
+  ],
+  "garden": [
+    568,
+    465
+  ],
+  "quarters": [
+    381,
+    226
+  ],
+  "viewing": [
+    356,
+    222
+  ],
+  "board": [
+    398,
+    404
+  ],
+  "sector-03-corridor": [
+    330,
+    218
+  ],
+  "hygiene": [
+    347,
+    207
+  ],
+  "infirmary": [
+    323,
+    209
+  ],
+  "medical-isolation": [
+    303,
+    214
+  ]
+}

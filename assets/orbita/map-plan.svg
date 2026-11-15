@@ -1,0 +1,26 @@
+<svg viewBox="120 173 570 576" aria-hidden="true">
+        <g fill="none" stroke="#38534e" stroke-width="19">
+          <path d="M393 398 566 335 M393 398 425 208 M393 398 246 274 M393 398 208 459 M393 398 361 587"/>
+        </g>
+        <g fill="none" stroke-width="25">
+          <path stroke="#4d756a" d="M514 251 A191 191 0 0 1 583 381"/>
+          <path stroke="#45645e" d="M377 208 A191 191 0 0 1 514 251 M282 242 A191 191 0 0 1 377 208"/>
+          <path stroke="#4f6661" d="M204 365 A191 191 0 0 1 282 242"/>
+          <path stroke="#3b514d" d="M259 534 A191 191 0 0 1 204 365"/>
+          <path stroke="#715938" d="M426 586 A191 191 0 0 1 259 534"/>
+          <path stroke="#58755a" d="M583 381 A191 191 0 0 1 533 528 M533 528 A191 191 0 0 1 426 586"/>
+        </g>
+        <g fill="none" stroke="#9fc0ae" stroke-opacity=".8">
+          <circle cx="393" cy="398" r="205"/><circle cx="393" cy="398" r="176"/>
+          <path d="M505 261l18-22 M378 223l-2-28 M290 255l-16-24 M220 368l-30-5 M270 524l-20 20 M423 571l5 29 M524 516l21 20 M568 382l30-2"/>
+        </g>
+        <g stroke="#9fc0ae" stroke-width="1.5" stroke-linejoin="round">
+          <circle cx="393" cy="398" r="44" fill="#36514d"/>
+          <path d="M347 581l33 4-4 43-34-4z M326 623l110 14-44 100-101-36z" fill="#74572f"/>
+          <path d="M566 324l36-13 10 22-36 15z M602 309l45-21 34 50-64 34z" fill="#3e6b65"/>
+          <path d="M437 396l70 10-4 23-66-10z" fill="#485e66"/>
+        </g>
+        <g fill="none" stroke="#9fc0ae" stroke-opacity=".35" stroke-width="1.5">
+          <path d="M337 643l72 10-32 67-65-25z M617 316l25-12 24 32-43 22z M448 408l47 7"/>
+        </g>
+      </svg>
